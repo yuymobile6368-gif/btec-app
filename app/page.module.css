@@ -6,8 +6,6 @@
   --accent: #0ea5e9;
 }
 
-@import "./globals.css";
-
 :root {
   --bg: #f8fbff;
   --surface: #ffffff;

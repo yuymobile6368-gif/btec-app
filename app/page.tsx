@@ -142,24 +142,21 @@ export default function Home() {
           <div className={styles.testimonialGrid}>
             <div className={styles.testimonial}>
               <p>
-                "ส่งโน้ตบุ๊กซ่อมช่วงเช้า
-                เย็นก็ใช้งานได้แล้ว ประทับใจมาก"
+                "ส่งโน้ตบุ๊กซ่อมช่วงเช้า เย็นก็ใช้งานได้แล้ว ประทับใจมาก"
               </p>
               <strong>- คุณสมชาย</strong>
             </div>
 
             <div className={styles.testimonial}>
               <p>
-                "บริการดี ตอบแชทไว
-                แจ้งราคาก่อนซ่อมชัดเจน"
+                "บริการดี ตอบแชทไว แจ้งราคาก่อนซ่อมชัดเจน"
               </p>
               <strong>- คุณอรทัย</strong>
             </div>
 
             <div className={styles.testimonial}>
               <p>
-                "มีบริการรับส่งถึงบ้าน
-                สะดวกมากสำหรับคนไม่มีเวลา"
+                "มีบริการรับส่งถึงบ้าน สะดวกมากสำหรับคนไม่มีเวลา"
               </p>
               <strong>- คุณวีระ</strong>
             </div>
